@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967037496884",
+    "project_id": "cursalia-673fd",
+    "storage_bucket": "cursalia-673fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967037496884:android:610a61769f61147afb2461",
+        "android_client_info": {
+          "package_name": "com.example.cursalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967037496884-9dupbcrmo3jjl0mfbangjheergglbp8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1trP3IJpCv6Rpbng97ZzGaEdTY8_yYqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967037496884-9dupbcrmo3jjl0mfbangjheergglbp8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
